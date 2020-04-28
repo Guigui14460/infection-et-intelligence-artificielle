@@ -50,5 +50,5 @@ python3 jeu.py <N> <M> <headstart> <white_player_reasoning> <black_player_reason
 - `<alphabeta_use>` : utilisation d'un élagage alphabeta (0 ou 1)
 
 ## Auteurs
-[MOK William](https://github.com/Akbeeh)
-[LETELLIER Guillaume](https://github.com/Guigui14460)
+- [MOK William](https://github.com/Akbeeh)
+- [LETELLIER Guillaume](https://github.com/Guigui14460)
