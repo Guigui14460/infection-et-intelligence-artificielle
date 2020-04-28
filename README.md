@@ -18,7 +18,7 @@ Le but du projet est de créer un jeu d'infection basique entre des pions de 2 c
 
 Le jeu se termine uniquement lorsqu'il n'y a plus de place sur le plateau ou lorsque l'un des joueurs ne possède plus de pion.
 
-L'autre but était d'implémenter des algorithmes d'intelligence artificielle tels que minimax (ou appelé MinMax) ou encore alphabeta, et si l'on souhaitait, leur version Négamax. Sur ce dépôt, les versions négamax des algotithmes ne sont pas présentes. Ces deux algorithmes permettent d'explorer chaque possibilités de chaque coup pour un état de jeu donné. Cela va donc permettre d'effectuer le meilleur coup pour le joueur utilisant l'algorithme.
+L'autre but était d'implémenter des algorithmes d'intelligence artificielle tels que minimax (ou appelé MinMax) ou encore alphabeta, et si l'on souhaitait, leur version Négamax. Sur ce dépôt, les versions négamax des algorithmes ne sont pas présentes. Ces deux algorithmes permettent d'explorer chaque possibilités de chaque coup pour un état de jeu donné. Cela va donc permettre d'effectuer le meilleur coup pour le joueur utilisant l'algorithme.
 
 ## Setup
 Python 3 doit être installé ainsi que les librairies `numpy` et `matplolib`.
