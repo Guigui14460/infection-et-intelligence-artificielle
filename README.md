@@ -31,7 +31,7 @@ pip3 install numpy matplotlib
 ```
 
 ## Utilisation
-Pour utiliser notre jeu, il faut utiliser la commande suivante :
+Pour utiliser notre jeu, il faut lancer la commande suivante :
 Windows : 
 ```bash
 python jeu.py <N> <M> <headstart> <black_player_reasoning> <white_player_reasoning> <alphabeta_use>
